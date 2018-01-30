@@ -21,9 +21,9 @@ body,html{
 
 
 blockquote {
-	font-family: cursive;
+	font-family: 'Lobster', cursive;
 	font-size: 250%;
-	font-style: italic;
+	/*font-style: italic;*/
 	display: inline;
 	border: none;
 }
@@ -44,8 +44,8 @@ blockquote:after {
 	font-size: 4em;
 	line-height: 0.1em;
 	/*margin-right: -0.2em;*/
-	vertical-align: -0.4em;
-	margin-left: -0.15em;
+	vertical-align: -0.48em;
+	margin-left: -0.10em;
 }
 
 
