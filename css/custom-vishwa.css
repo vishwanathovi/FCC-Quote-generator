@@ -71,3 +71,10 @@ blockquote:after {
 	width: 80%;
 	height: 3em;
 }
+
+.twitter-logo{
+	width: 64px;
+	align-content: left;
+	margin-top: 20px ;
+	margin-left: 20px;
+}
